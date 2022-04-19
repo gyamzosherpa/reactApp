@@ -1,0 +1,15 @@
+.carousel-container {
+  height: 600px !important;
+}
+
+.carousel-inner {
+  height: 600px;
+}
+
+.carousel-item {
+  height: 100%;
+}
+
+.carousel-item img {
+  height: 100%;
+}
